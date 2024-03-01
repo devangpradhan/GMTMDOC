@@ -1,0 +1,2 @@
+# GMTMDOC
+Goldmedal Theme Document
